@@ -1,0 +1,27 @@
+{
+  "name": "console-log-npm",
+  "version": "1.0.1",
+  "description": "## Lesson Task 1 Question",
+  "main": "index.js",
+  "dependencies": {
+    "lesson-task-workflow2-module3-lesson1": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilla-design/lesson-task-workflow2-module3-lesson1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilla-design/lesson-task-workflow2-module3-lesson1/issues"
+  },
+  "homepage": "https://github.com/camilla-design/lesson-task-workflow2-module3-lesson1#readme"
+}
